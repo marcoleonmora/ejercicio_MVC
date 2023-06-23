@@ -1,0 +1,80 @@
+/* Estilos del Proyecto 'Inventario'*/
+
+#encabezado{
+    background-color: rgb(233, 235, 236);
+}
+
+#menu{
+    background-color: rgb(134, 180, 204);    
+}
+
+#areaTrabajo{
+    padding: 10px;
+}
+
+.borde{
+    color: rgb(134, 180, 204);
+    border: solid 2px rgb(134, 180, 204);
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.btn1{
+    width: 100%;
+    color: white;
+    font-size: 1.2em;
+}
+
+.btn1:hover{
+    color: rgb(153, 137, 163);
+    font-size: 1.2em;   
+}
+
+.btn2{
+    width: 49%;
+    color: white;
+    font-size: 1.2em;
+}
+
+.btn3{
+    width: 32%;
+    color: white;
+    font-size: 1.2em;
+}
+.btn-primary {
+    background-color: #F29BAB;
+    border-color: #F29BAB;
+}
+
+.btn-primary:hover {
+    background-color: #c47482;
+    border-color: #F29BAB;
+}
+
+.btn-warning {
+    background-color: rgb(233, 235, 236);
+    border-color: rgb(233, 235, 236);
+    color: #699dad;
+}
+
+.btn-warning:hover {
+    color: #699dad;
+    background-color: rgb(163, 193, 201);
+    border-color: rgb(163, 193, 201);
+}
+
+.btn-success{
+    background-color: rgb(111, 185, 107);
+    border-color: rgb(111, 185, 107);
+    color: #ffffff;
+}
+
+.dropdown-menu{
+    background-color: rgb(233, 235, 236);  
+}
+
+.dropdown-item{
+    color: rgb(82, 129, 155); 
+    font-size: 1.2em; 
+}
+
